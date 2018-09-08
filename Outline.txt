@@ -1,0 +1,38 @@
+Title: 
+Health Lookup Linking
+
+Members: 
+Dustin Markan
+Julie Nguyen
+Sherry Jystad
+Beau Batchelor
+
+Description:
+Medical google searches by region and their correlation to Weather, Education, Income, and Happiness. 
+
+Questions:
+Which indicator it the leading cause?
+What are the rank of states by search?
+How far away from the average?
+Top three states based on individual metrics.
+
+Data:
+-Health Searches
+	https://www.kaggle.com/GoogleNewsLab/health-searches-us-county
+-Weather
+	https://developer.awhere.com/api/reference
+-Income
+	http://data.bls.gov/
+	https://www.census.gov/data/developers/data-sets.html
+-Education
+	http://api.ed.gov/
+
+Breakdown of tasks
+-Dustin Markan
+	Education
+-Julie Nguyen
+	Health Searches
+-Sherry Jystad
+	Weather, Happiness
+-Beau Batchelor
+	Income
