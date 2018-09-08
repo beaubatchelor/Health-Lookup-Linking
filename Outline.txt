@@ -8,31 +8,31 @@ Sherry Jystad
 Beau Batchelor
 
 Description:
-Medical google searches by region and their correlation to Weather, Education, Income, and Happiness. 
+Deciding how we can make the citizens of the US happier by testing the leading factors of why Norway is the happiest 
+country and why Central African Republic is the least happy country. 
 
 Questions:
-Which indicator it the leading cause?
-What are the rank of states by search?
-How far away from the average?
-Top three states based on individual metrics.
+How does GDP per capita affect the happiness of both nations?
+How does average temperature and average rainfall affect the happiness of both nations?
+How does literacy rates affect the happiness of both nations?
+How does infant death rate and average life expectancy affect the happiness of both nations?
 
 Data:
--Health Searches
-	https://www.kaggle.com/GoogleNewsLab/health-searches-us-county
+-Health
+	x
 -Weather
-	https://developer.awhere.com/api/reference
+	x
 -Income
-	http://data.bls.gov/
-	https://www.census.gov/data/developers/data-sets.html
+	x
 -Education
-	http://api.ed.gov/
+	x
 
 Breakdown of tasks
 -Dustin Markan
 	Education
 -Julie Nguyen
-	Health Searches
+	Health
 -Sherry Jystad
-	Weather, Happiness
+	Weather
 -Beau Batchelor
 	Income
