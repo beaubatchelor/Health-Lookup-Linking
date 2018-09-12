@@ -12,15 +12,15 @@ Deciding how we can make the citizens of the US happier by testing the leading f
 country and why Central African Republic is the least happy country. 
 
 Questions:
-How does GDP per capita affect the happiness of both nations?
-How does average temperature and average rainfall affect the happiness of both nations?
-How does literacy rates affect the happiness of both nations?
-How does infant death rate and average life expectancy affect the happiness of both nations?
+How does GDP per capita and gini coefficient affect the happiness of all nations?
+How does incarceration rates affect the happiness of all nations?
+How does literacy rates affect the happiness of all nations?
+How does infant death rate and average life expectancy affect the happiness of all nations?
 
 Data:
 -Health
 	x
--Weather
+-Crime
 	x
 -Income
 	x
@@ -33,6 +33,6 @@ Breakdown of tasks
 -Julie Nguyen
 	Health
 -Sherry Jystad
-	Weather
+	Crime
 -Beau Batchelor
 	Income
