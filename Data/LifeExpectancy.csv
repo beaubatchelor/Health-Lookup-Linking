@@ -9,7 +9,7 @@ Column1,Column2,Column3
 8,Andorra                                            ,82.9
 9,Guernsey                                           ,82.6
 10,Switzerland                                        ,82.6
-11,"Korea, South                                       ",82.5
+11,South Korea,82.5
 12,Israel                                             ,82.5
 13,Luxembourg                                         ,82.3
 14,Australia                                          ,82.3
@@ -54,7 +54,7 @@ Column1,Column2,Column3
 53,British Virgin Islands                             ,78.8
 54,Cyprus                                             ,78.8
 55,Panama                                             ,78.8
-56,Czechia                                            ,78.8
+56,Czech Republic,78.8
 57,Cuba                                               ,78.8
 58,Costa Rica                                         ,78.7
 59,Albania                                            ,78.5
@@ -165,7 +165,7 @@ Column1,Column2,Column3
 164,India                                              ,68.8
 165,Guyana                                             ,68.6
 166,Timor-Leste                                        ,68.4
-167,Burma                                              ,68.2
+167,Myanmar                                           ,68.2
 168,Pakistan                                           ,68.1
 169,Tajikistan                                         ,68.1
 170,Nauru                                              ,67.4
@@ -204,11 +204,11 @@ Column1,Column2,Column3
 203,Zimbabwe                                           ,60.4
 204,Mali                                               ,60.3
 205,Angola                                             ,60.2
-206,"Congo, Republic of the                             ",59.8
-207,Cote d'Ivoire                                      ,59
+206,Congo (Brazzaville)                         ,59.8
+207,Ivory Coast                                    ,59
 208,Cameroon                                           ,59
 209,Sierra Leone                                       ,58.6
-210,"Congo, Democratic Republic of the                  ",57.7
+210,Congo (Kinshasa),57.7
 211,Burkina Faso                                       ,55.9
 212,Uganda                                             ,55.9
 213,Niger                                              ,55.9
